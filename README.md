@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Churn" width="65%" src="https://raw.githubusercontent.com/gist/DevMichilles/33f36065f70fad69c68d2a1685a5eb2e/raw/ecb48fbec868ed5e438192d874b273702601d7a8/churn.svg">
+  <img alt="Churn" width="65%" src="https://raw.githubusercontent.com/gist/RodrigoMichilles/33f36065f70fad69c68d2a1685a5eb2e/raw/ecb48fbec868ed5e438192d874b273702601d7a8/churn.svg">
 </p>
 <p align="left">Dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn</p>
 
